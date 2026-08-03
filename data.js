@@ -43,6 +43,8 @@ const COMPETENCIES = [
  {
   "id": "meca01",
   "order": 1,
+  "code": "343401",
+  "hours": 15,
   "title_fr": "Métier et formation",
   "title_en": "Trade and Training",
   "icon": "🧭",
@@ -241,6 +243,8 @@ const COMPETENCIES = [
  {
   "id": "meca02",
   "order": 2,
+  "code": "343412",
+  "hours": 30,
   "title_fr": "Santé, sécurité et protection de l'environnement",
   "title_en": "Health, Safety and Environmental Protection",
   "icon": "🦺",
@@ -439,6 +443,8 @@ const COMPETENCIES = [
  {
   "id": "meca03",
   "order": 3,
+  "code": "343423",
+  "hours": 45,
   "title_fr": "Recherche d'information technique",
   "title_en": "Technical Information Research",
   "icon": "📖",
@@ -637,6 +643,8 @@ const COMPETENCIES = [
  {
   "id": "meca04",
   "order": 4,
+  "code": "343433",
+  "hours": 45,
   "title_fr": "Chauffe, soudage et coupage",
   "title_en": "Heating, Welding and Cutting",
   "icon": "🔥",
@@ -835,6 +843,8 @@ const COMPETENCIES = [
  {
   "id": "meca05",
   "order": 5,
+  "code": "343445",
+  "hours": 75,
   "title_fr": "Travail d'atelier",
   "title_en": "Shop Work",
   "icon": "🔧",
@@ -1033,6 +1043,8 @@ const COMPETENCIES = [
  {
   "id": "meca06",
   "order": 6,
+  "code": "343452",
+  "hours": 30,
   "title_fr": "Communication en milieu de travail",
   "title_en": "Workplace Communication",
   "icon": "💬",
@@ -1231,6 +1243,8 @@ const COMPETENCIES = [
  {
   "id": "meca07",
   "order": 7,
+  "code": "343465",
+  "hours": 75,
   "title_fr": "Vérification de l'état général de moteurs à combustion interne",
   "title_en": "Internal Combustion Engine Condition Check",
   "icon": "🔍",
@@ -1429,6 +1443,8 @@ const COMPETENCIES = [
  {
   "id": "meca08",
   "order": 8,
+  "code": "343476",
+  "hours": 90,
   "title_fr": "Réparation de moteurs à combustion interne",
   "title_en": "Internal Combustion Engine Repair",
   "icon": "⚙️",
@@ -1627,6 +1643,8 @@ const COMPETENCIES = [
  {
   "id": "meca09",
   "order": 9,
+  "code": "343484",
+  "hours": 60,
   "title_fr": "Vérification de systèmes liés à la tenue de route",
   "title_en": "Steering and Suspension System Check",
   "icon": "🚗",
@@ -1825,6 +1843,8 @@ const COMPETENCIES = [
  {
   "id": "meca10",
   "order": 10,
+  "code": "343496",
+  "hours": 90,
   "title_fr": "Réparation de systèmes liés à la tenue de route",
   "title_en": "Steering and Suspension System Repair",
   "icon": "🔧",
@@ -2023,6 +2043,8 @@ const COMPETENCIES = [
  {
   "id": "meca11",
   "order": 11,
+  "code": "343506",
+  "hours": 90,
   "title_fr": "Vérification de systèmes électriques et électroniques",
   "title_en": "Electrical and Electronic System Check",
   "icon": "⚡",
@@ -2221,6 +2243,8 @@ const COMPETENCIES = [
  {
   "id": "meca12",
   "order": 12,
+  "code": "343514",
+  "hours": 60,
   "title_fr": "Réparation de systèmes d'éclairage",
   "title_en": "Lighting System Repair",
   "icon": "💡",
@@ -2419,6 +2443,8 @@ const COMPETENCIES = [
  {
   "id": "meca13",
   "order": 13,
+  "code": "343524",
+  "hours": 60,
   "title_fr": "Vérification de systèmes de base commandés par ordinateur",
   "title_en": "Basic Computer-Controlled System Check",
   "icon": "💻",
@@ -2617,6 +2643,8 @@ const COMPETENCIES = [
  {
   "id": "meca14",
   "order": 14,
+  "code": "343536",
+  "hours": 90,
   "title_fr": "Vérification de systèmes de transmission de pouvoir",
   "title_en": "Powertrain System Check",
   "icon": "🔗",
@@ -2815,6 +2843,8 @@ const COMPETENCIES = [
  {
   "id": "meca15",
   "order": 15,
+  "code": "343547",
+  "hours": 105,
   "title_fr": "Réparation de systèmes de transmission de pouvoir",
   "title_en": "Powertrain System Repair",
   "icon": "🔧",
@@ -3013,6 +3043,8 @@ const COMPETENCIES = [
  {
   "id": "meca16",
   "order": 16,
+  "code": "343555",
+  "hours": 75,
   "title_fr": "Vérification de systèmes de démarrage, de charge et d'accessoires électromagnétiques",
   "title_en": "Starting, Charging and Electromagnetic Accessory System Check",
   "icon": "🔋",
@@ -3211,6 +3243,8 @@ const COMPETENCIES = [
  {
   "id": "meca17",
   "order": 17,
+  "code": "343565",
+  "hours": 75,
   "title_fr": "Réparation de systèmes de démarrage, de charge et d'accessoires électromagnétiques",
   "title_en": "Starting, Charging and Electromagnetic Accessory System Repair",
   "icon": "🔋",
@@ -3409,6 +3443,8 @@ const COMPETENCIES = [
  {
   "id": "meca18",
   "order": 18,
+  "code": "343573",
+  "hours": 45,
   "title_fr": "Vérification de systèmes liés à la température du moteur et de l'habitacle",
   "title_en": "Engine and Cabin Temperature System Check",
   "icon": "🌡️",
@@ -3607,6 +3643,8 @@ const COMPETENCIES = [
  {
   "id": "meca19",
   "order": 19,
+  "code": "343583",
+  "hours": 45,
   "title_fr": "Entretien et réparation des systèmes liés à la température du moteur et de l'habitacle",
   "title_en": "Engine and Cabin Temperature System Maintenance and Repair",
   "icon": "❄️",
@@ -3805,6 +3843,8 @@ const COMPETENCIES = [
  {
   "id": "meca20",
   "order": 20,
+  "code": "343593",
+  "hours": 45,
   "title_fr": "Vérification de systèmes de sécurité actifs et passifs",
   "title_en": "Active and Passive Safety System Check",
   "icon": "🛡️",
@@ -4003,6 +4043,8 @@ const COMPETENCIES = [
  {
   "id": "meca21",
   "order": 21,
+  "code": "343604",
+  "hours": 60,
   "title_fr": "Réparation de systèmes de sécurité actifs et passifs",
   "title_en": "Active and Passive Safety System Repair",
   "icon": "🛡️",
@@ -4201,6 +4243,8 @@ const COMPETENCIES = [
  {
   "id": "meca22",
   "order": 22,
+  "code": "343614",
+  "hours": 60,
   "title_fr": "Entretien général d'un véhicule automobile",
   "title_en": "General Vehicle Maintenance",
   "icon": "🧰",
@@ -4399,6 +4443,8 @@ const COMPETENCIES = [
  {
   "id": "meca23",
   "order": 23,
+  "code": "343624",
+  "hours": 60,
   "title_fr": "Vérification de systèmes d'allumage électronique",
   "title_en": "Electronic Ignition System Check",
   "icon": "⚡",
@@ -4597,6 +4643,8 @@ const COMPETENCIES = [
  {
   "id": "meca24",
   "order": 24,
+  "code": "343634",
+  "hours": 60,
   "title_fr": "Réparation de systèmes d'allumage électronique",
   "title_en": "Electronic Ignition System Repair",
   "icon": "⚡",
@@ -4795,6 +4843,8 @@ const COMPETENCIES = [
  {
   "id": "meca25",
   "order": 25,
+  "code": "343644",
+  "hours": 60,
   "title_fr": "Vérification de systèmes d'injection électronique et antipollution",
   "title_en": "Electronic Fuel Injection and Emission Control System Check",
   "icon": "🌫️",
@@ -4993,6 +5043,8 @@ const COMPETENCIES = [
  {
   "id": "meca26",
   "order": 26,
+  "code": "343655",
+  "hours": 75,
   "title_fr": "Entretien et réparation de systèmes d'injection électronique et antipollution",
   "title_en": "Electronic Fuel Injection and Emission Control System Maintenance and Repair",
   "icon": "🌫️",
@@ -5191,6 +5243,8 @@ const COMPETENCIES = [
  {
   "id": "meca27",
   "order": 27,
+  "code": "343665",
+  "hours": 75,
   "title_fr": "Vérification du fonctionnement du groupe motopropulseur",
   "title_en": "Powertrain Performance Check",
   "icon": "🏎️",
@@ -5389,6 +5443,8 @@ const COMPETENCIES = [
  {
   "id": "meca28",
   "order": 28,
+  "code": "343671",
+  "hours": 15,
   "title_fr": "Recherche d'emploi",
   "title_en": "Job Search",
   "icon": "📄",
@@ -5587,6 +5643,8 @@ const COMPETENCIES = [
  {
   "id": "meca29",
   "order": 29,
+  "code": "343686",
+  "hours": 90,
   "title_fr": "Intégration au milieu de travail",
   "title_en": "Workplace Integration",
   "icon": "🎓",
